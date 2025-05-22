@@ -15,10 +15,11 @@ function App(){
 
         <br></br>
         <br></br>
+        <br></br>
 
          <button onClick={ 
           () => {
-            setValue(0);
+            setValue(0) ;
           }
         }>Reset</button>
 
